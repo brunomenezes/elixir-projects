@@ -1,2 +1,2 @@
 # elixir-projects
-Studying elixir
+A few elixir+phoenix course exercises
